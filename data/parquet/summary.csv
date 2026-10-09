@@ -1,0 +1,7 @@
+category,walk_sets,subjects,source_files,total_rows,columns,file_size_bytes,round_trip_rows
+normal,80,10,465,36077,83,15078223,36077
+antalgic,80,10,472,60640,83,24720146,60640
+stiff_legged,80,10,470,56161,83,23099667,56161
+lurch,80,10,460,67722,83,27699421,67722
+steppage,80,10,467,54807,83,22495637,54807
+trendelenburg,80,10,460,65488,83,26768183,65488
