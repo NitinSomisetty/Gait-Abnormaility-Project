@@ -1,0 +1,36 @@
+Models to use:
+Log regression
+SVM 
+Random Forest
+
+Our method:
+
+A low-cost video-based gait abnormality detection system that extracts human pose and interpretable gait features from GAVD videos, compares multiple machine-learning models, and selects the best model for distinguishing normal and abnormal gait.
+
+
+Video
+ ↓
+Pose estimation
+ ↓
+Skeleton landmarks
+ ↓
+Handcrafted gait features
+ ↓
+Multiple classical ML models
+ ↓
+Normal / Abnormal
+
+
+Gait features:
+mean knee angle
+std knee angle
+mean hip angle
+std hip angle
+left/right knee asymmetry
+left/right ankle asymmetry
+knee movement range
+hip movement range
+ankle movement range
+average joint velocity
+velocity variance
+...
