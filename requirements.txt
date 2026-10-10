@@ -1,2 +1,7 @@
 pandas
 pyarrow
+numpy
+matplotlib
+scikit-learn
+joblib
+jupyter

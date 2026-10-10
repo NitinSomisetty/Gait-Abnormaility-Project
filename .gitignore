@@ -1,3 +1,5 @@
 data/raw/
 data/Pathological_Gaits/
-
+.venv/
+__pycache__/
+~$*.docx
